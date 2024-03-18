@@ -1,0 +1,44 @@
+*{
+
+	padding :10px;
+	margin: 20px;
+	font-size:20px;
+	font-weight: bolder;
+	font-family:initial;
+	border-radius: inherit;
+
+}
+
+h1.heading{
+	 font-weight: bolder;
+
+	 font-family:initial;
+	 font-size:50px;
+	 color:darkslateblue;
+
+
+
+}
+
+.textboxform label{
+	color:black;
+	font-size: 40px;
+	max-width: initial;
+	font-weight: bolder;
+	border: black;
+	
+}
+.textboxform button
+{
+	color: white;
+	background:purple;
+	outline:gray;
+	border-radius: 40px;
+	backface-visibility: unset;
+	cursor: pointer;
+	bottom: initial;
+	box-shadow: black;
+	position: relative;
+	isolation: isolate;
+	background: var(-color);
+}
